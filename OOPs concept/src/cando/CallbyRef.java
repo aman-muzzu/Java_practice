@@ -15,6 +15,8 @@ public class CallbyRef {
 		CallbyRef op1 = new CallbyRef();
 				op.a=2;
 				op.b=3;
+				op1.a=23;
+				
 				System.out.println("Befor passing Results from main:"+ (op.a+op.b));
 				add(op,op);
 				System.out.println("After passing Results from main:"+ (op.a+op.b));

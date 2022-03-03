@@ -6,7 +6,8 @@ public class Function {
 	public static void main(String[] args) {
  // if you want to create object you need to create in main method
 		//creating of object
-		Function obj= new Function();// initilaization
+		//Function obj= new Function();// initilaization
+		
 		
 		
 		

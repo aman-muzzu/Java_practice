@@ -12,7 +12,6 @@ public class AbstractionCar {
 	public static void main(String[] args) {
 		//parts p = new parts();     we cannot add object  for abstract class
 		
-
 	}
 
 }
